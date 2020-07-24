@@ -2,15 +2,11 @@
 
 **[schedule](https://pdos.csail.mit.edu/6.824/schedule.html)**
 
-| Lecture                                                      |
-| ------------------------------------------------------------ |
-| [Lecture 1 Introduction](notes/Lecture 1 Introduction.md)    |
-| [Lecture 2 RPC and Threads](notes/Lecture 2 RPC and Threads.md) |
-|                                                              |
+### Lecture
 
-| Lab                                        |
-| ------------------------------------------ |
-| [Lab 1 MapReduce](labs/Lab 1 MapReduce.md) |
-|                                            |
-|                                            |
+- [Lecture 1 Introduction](notes/Lecture1Introduction.md)
+- [Lecture 2 RPC and Threads](notes/Lecture2RPCandThreads.md)
 
+### Lab
+
+- [Lab 1 MapReduce](labs/Lab1MapReduce.md)
