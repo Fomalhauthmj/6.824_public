@@ -32,7 +32,7 @@ master:
 	wait task
 ```
 
-### master
+### Master
 
 ![](../images/lab 1 master.png)
 
