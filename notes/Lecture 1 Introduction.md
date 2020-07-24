@@ -289,7 +289,7 @@ Input and output are stored on the GFS cluster file system
 
 ### Some details (paper's Figure 1):
 
-![paper's Figure 1](../images/mapreduce Figure 1.png)
+![paper's Figure 1](../images/mapreduceFigure1.png)
 
 ```
   one master, that hands out tasks to workers and remembers progress.

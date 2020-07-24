@@ -34,8 +34,8 @@ master:
 
 ### Master
 
-![](../images/lab 1 master.png)
+![](../images/lab1master.png)
 
 ## Results
 
-![Lab 1](../images/lab 1.jpg)
+![Lab 1](../images/lab1.jpg)
