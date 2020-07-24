@@ -4,13 +4,13 @@
 
 | Lecture                                                      |
 | ------------------------------------------------------------ |
-| [Lecture 1 Introduction](notes\Lecture 1 Introduction.md)    |
-| [Lecture 2 RPC and Threads](notes\Lecture 2 RPC and Threads.md) |
+| [Lecture 1 Introduction](notes/Lecture 1 Introduction.md)    |
+| [Lecture 2 RPC and Threads](notes/Lecture 2 RPC and Threads.md) |
 |                                                              |
 
 | Lab                                        |
 | ------------------------------------------ |
-| [Lab 1 MapReduce](labs\Lab 1 MapReduce.md) |
+| [Lab 1 MapReduce](labs/Lab 1 MapReduce.md) |
 |                                            |
 |                                            |
 
