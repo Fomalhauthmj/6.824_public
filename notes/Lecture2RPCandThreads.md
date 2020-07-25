@@ -410,5 +410,4 @@ What about "exactly once"?
   Lab 3
 ```
 
-[原文]: https://pdos.csail.mit.edu/6.824/notes/l-rpc.txt
-
+[**原文**](https://pdos.csail.mit.edu/6.824/notes/l-rpc.txt)

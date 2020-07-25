@@ -397,7 +397,5 @@ Input and output are stored on the GFS cluster file system
   Have fun with the lab!
 ```
 
-
-
-[原文]: https://pdos.csail.mit.edu/6.824/notes/l01.txt
+[**原文**](https://pdos.csail.mit.edu/6.824/notes/l01.txt)
 
