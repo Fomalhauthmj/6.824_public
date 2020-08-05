@@ -1,4 +1,4 @@
-# 6.824 2020 Lecture 4: Primary/Backup Replication
+# 6.824 2020 Lecture 4: Primary-Backup Replication
 
 ```
 Today

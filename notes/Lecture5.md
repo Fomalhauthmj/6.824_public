@@ -1,4 +1,4 @@
-# 6.824 2020 Lecture 6: Go, Threads, and Raft
+# 6.824 2020 Lecture 5: Go, Threads, and Raft
 
 This lecture:
 

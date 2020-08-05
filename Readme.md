@@ -4,11 +4,13 @@
 
 ### Lecture
 
-- [Lecture 1 Introduction](notes/Lecture1Introduction.md)
-- [Lecture 2 RPC and Threads](notes/Lecture2RPCandThreads.md)
-- [Lecture 3 GFS](/notes/Lecture3GFS.md)
-- [Lecture 4 Primary-Backup Replication](notes/Lecture4Primary-BackupReplication.md)
+- [Lecture 1: Introduction](notes/Lecture1.md)
+- [Lecture 2: RPC and Threads](notes/Lecture2.md)
+- [Lecture 3: GFS](/notes/Lecture3.md)
+- [Lecture 4: Primary-Backup Replication](notes/Lecture4.md)
+- [Lecture 5: Go, Threads, and Raft](notes/Lecture5.md)
+- [Lecture 6: Fault Tolerance: Raft (1)](notes/Lecture6.md)
 
 ### Lab
 
-- [Lab 1 MapReduce](labs/Lab1MapReduce.md)
+- [Lab 1: MapReduce](labs/Lab1.md)
