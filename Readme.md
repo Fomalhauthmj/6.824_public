@@ -10,7 +10,10 @@
 - [Lecture 4: Primary-Backup Replication](notes/Lecture4.md)
 - [Lecture 5: Go, Threads, and Raft](notes/Lecture5.md)
 - [Lecture 6: Fault Tolerance: Raft (1)](notes/Lecture6.md)
+- [Lecture 7: Fault Tolerance: Raft (2)](notes/Lecture7.md)
 
 ### Lab
 
 - [Lab 1: MapReduce](labs/Lab1.md)
+- [Lab 2: Raft]()
+- [Lab 3: KV Raft]()
