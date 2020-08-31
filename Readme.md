@@ -11,6 +11,7 @@
 - [Lecture 5: Go, Threads, and Raft](notes/Lecture5.md)
 - [Lecture 6: Fault Tolerance: Raft (1)](notes/Lecture6.md)
 - [Lecture 7: Fault Tolerance: Raft (2)](notes/Lecture7.md)
+- [Lecture 8: Zookeeper](notes/Lecture8.md)
 
 ### Lab
 
