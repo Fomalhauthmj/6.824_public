@@ -325,5 +325,37 @@ Using these locks
 
 ## ZooKeeper is a successful design.
 
+```
+  see ZooKeeper's Wikipedia page for a list of projects that use it
+  Rarely eliminates all the complexity from distribution.
+    e.g. GFS master still needs to replicate file meta-data.
+    e.g. GFS primary has its own plan for replicating chunks.
+  But does bite off a bunch of common cases:
+    Master election.
+    Persistent master state (if state is small).
+    Who is the current master? (name service).
+    Worker registration.
+    Work queues.
+```
 
+## Topics not covered:
 
+```
+  persistence
+  details of batching and pipelining for performance
+  fuzzy snapshots
+  idempotent operations
+  duplicate client request detection
+```
+
+## References:
+
+```
+https://zookeeper.apache.org/doc/r3.4.8/api/org/apache/zookeeper/ZooKeeper.html
+  ZAB: http://dl.acm.org/citation.cfm?id=2056409
+  https://zookeeper.apache.org/
+  https://cs.brown.edu/~mph/Herlihy91/p124-herlihy.pdf  (wait free, universal
+  objects, etc.)
+```
+
+[**原文**](https://pdos.csail.mit.edu/6.824/notes/l-zookeeper.txt)
