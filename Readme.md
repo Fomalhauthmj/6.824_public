@@ -12,6 +12,7 @@
 - [Lecture 6: Fault Tolerance: Raft (1)](notes/Lecture6.md)
 - [Lecture 7: Fault Tolerance: Raft (2)](notes/Lecture7.md)
 - [Lecture 8: Zookeeper](notes/Lecture8.md)
+- [Lecture 9: More Replication, CRAQ](notes/Lecture9.md)
 
 ### Lab
 
